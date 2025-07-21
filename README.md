@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is amirreza and i'm python developer from iran.<br>Actually active in Back-end with Django and sometimes develop telegram bot.</p>
+<p align="center">My name is amir and i'm python developer from iran.<br>Actually active in Back-end with Django and sometimes develop telegram bot.</p>
 
 ###
 
