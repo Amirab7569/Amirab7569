@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">🔥I'm currently learning programming and Linux and Devops<br>🖥️Student's of IT and coding with python<br>👀Always Friendly and cool<br>💥Interested in Django</p>
+<p align="center">🔥 I'm currently learning programming and Linux and Devops<br>🖥️ Student's of IT and coding with python<br>👀 Always Friendly and cool<br>💥 Interested in Django</p>
 
 ###
 
