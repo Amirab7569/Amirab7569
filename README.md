@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">💻I'm currently learning programming and Linux and Devops<br>🎓Student's of IT and coding with python<br>👀Always Friendly and cool<br>🔥Interested in Django</p>
+<p align="center">🔥I'm currently learning programming and Linux and Devops<br>🖥️Student's of IT and coding with python<br>👀Always Friendly and cool<br>💥Interested in Django</p>
 
 ###
 
@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"  />
 </div>
 
 ###
@@ -71,7 +71,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/github/181717" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
   <img width="12" />
